@@ -1,0 +1,22 @@
+
+++++ "coordinates": null,     <<<<<<<<<<<<<<<<<<
+++++    "created_at": "Fri Mar 29 21:16:19 +0000 2019",    <<<<<<<<<<<
+    "entities": {
+ ++++       "hashtags": [],  <<<<<<<<<<<<<<<<<<<<<<<
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1380312612,
+                "id_str": "1380312612",
+                "indices": [
+                    3,
+                    19
+                ],
+                "name": "Lindavista Unida",
+ +++++               "screen_name": "LindavistaUnida"  <<<<<<<<<<<<< SACARLO
+            }
+        ]
+    },
+ ++++   "text": "En Buenavista en la Col. Lindavista asalto en el transporte p\u00fablico 5 pasajeros saltaron desde el autob\u00fas una mujer\u2026 https://t.co/H2zBVsPR7O",
+        
